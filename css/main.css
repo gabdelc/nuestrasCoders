@@ -6,7 +6,15 @@ body{
 
 h3 {
     position: relative;
-    left: 10px;    
+    left: 15px;
+    font-size: 30px;
+    }
+
+hr{
+    width: 260px;
+    border: 2px solid black;
+    margin-left: 0px;
+    
 }
 p{
     color: white;
