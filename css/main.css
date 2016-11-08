@@ -1,1 +1,66 @@
-/* Inserta tu código aqui */
+
+body{
+    font-family: sans-serif;
+    
+}
+
+h3 {
+    position: relative;
+    left: 10px;    
+}
+p{
+    color: white;
+    position: absolute;
+    bottom: 3px;
+    right:15px;
+}
+div {
+    position: relative;
+    display: inline-block;
+    border: 1px black solid;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+              }
+
+.caja1 {
+    background-image: url(../img/profile-1.png) ;
+    background-position: center;
+    background-size: cover;
+    }
+
+.caja2 {
+    background-image: url(../img/profile-2.png);
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.caja3 {
+    background-image: url(../img/profile-3.png);
+    background-position: center;
+    background-size: cover;
+       
+}
+
+.caja4 {
+    background-image: url(../img/profile-4.png);
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.caja5 {
+    background-image: url(../img/profile-5.png);
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.caja6 {
+    background-image: url(../img/profile-6.png);
+    background-position: center;
+    background-size: cover;
+   
+}
